@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Neel Shah</h1>
+<h3 align="center">Software Developer | Backend | Mobile Apps</h3>
 
-<!--
-**Neel112002/Neel112002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🚀 **Currently Building**
+- PayShare – Smart expense splitting app
+- Passage – Social video marketplace
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 **Tech Stack**
+- Python
+- FastAPI
+- PostgreSQL
+- Flutter
+- Firebase
+- Git & GitHub
+
+📍 Oshawa, Canada
+
+📫 **Connect with me**
+- LinkedIn: https://linkedin.com/in/neel-shah-316a24201
+
+---
+
+### 📊 GitHub Stats
+
+![Neel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neel112002&show_icons=true&theme=radical)
+
+### 💻 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neel112002&layout=compact&theme=radical)
