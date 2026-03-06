@@ -1,43 +1,123 @@
 <h1 align="center">Hi 👋, I'm Neel Shah</h1>
-<h3 align="center">Software Developer | Backend Engineer | Mobile Apps | Cloud</h3>
+<h3 align="center">Full-Stack Software Developer | Cloud & Mobile Applications</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Developer;FastAPI+Engineer;Flutter+App+Developer;Cloud+Enthusiast;Building+Real+World+Apps" />
+<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Backend+Engineer;React+%7C+Flutter+Developer;Cloud+%7C+DevOps+Enthusiast;Building+Scalable+Systems" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-* 🚀 Software developer passionate about building **scalable applications**
-* 🧩 Focused on **Backend Systems, Mobile Apps, and Cloud Infrastructure**
-* 📱 Currently developing real-world applications
-* 📍 Oshawa, Canada
+* 🎓 **Master of Engineering – Software Engineering**
+  Ontario Tech University (Expected April 2026)
 
----
+* 💻 Full-stack developer building **scalable cloud-native applications**
 
-## 🚀 Currently Building
+* 🚀 Experience developing **web, backend, and mobile systems**
 
-* **PayShare** — Smart expense splitting application with fairness algorithm
-* **Passage** — Social video marketplace platform
+* ⚡ Skilled in **modern architecture, CI/CD, and performance optimization**
+
+* 📍 Toronto / Oshawa, Canada
 
 ---
 
 ## ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,flutter,firebase,aws,docker,git,github,vscode" />
+
+<img src="https://skillicons.dev/icons?i=java,python,js,react,flutter,nodejs,dotnet,postgres,mysql,docker,aws,azure,firebase,git,github,vscode" />
+
 </p>
+
+---
+
+## 🧩 Core Skills
+
+**Frontend**
+
+* React.js
+* HTML / CSS
+* Flutter
+* Responsive UI
+* Accessibility (ARIA/WCAG)
+
+**Backend**
+
+* Node.js (Express)
+* Python (Flask / FastAPI)
+* .NET
+* RESTful APIs
+* WebSockets
+
+**Cloud & DevOps**
+
+* AWS
+* Azure
+* Firebase
+* Docker
+* GitHub Actions (CI/CD)
+
+**Architecture**
+
+* Microservices
+* Event-Driven Systems
+* MVC / MVVM / MVI
+* Clean Code & SOLID principles
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project             | Description                                                     | Tech                |
-| ------------------- | --------------------------------------------------------------- | ------------------- |
-| **PayShare**        | Smart expense splitting app with fairness calculation algorithm | FastAPI, PostgreSQL |
-| **Passage**         | Social video marketplace where sellers upload product videos    | Flutter, Firebase   |
-| **Cloud Portfolio** | Personal portfolio deployed using cloud infrastructure          | AWS, Docker, CI/CD  |
+### MCP Server (Notes Agent)
+
+Python • Claude MCP • OpenAPI
+
+* Service that converts queries into structured notes using tooling APIs
+* Implemented error handling, idempotency, and local persistence
+
+---
+
+### PB_OTU (Project/WBS Tool)
+
+React • FastAPI • PostgreSQL
+
+* Requirement-to-WBS generation system
+* RBAC authentication and audit logging
+* Search, pagination, and validation layers
+
+---
+
+### Ollama Microservices System
+
+Flask • WebSockets • React • Docker
+
+* Service registry and messaging system between microservices
+* Integrated LLM orchestration worker
+* Containerized infrastructure using Docker Compose
+
+---
+
+## 💼 Professional Experience
+
+**Web Developer**
+Automate DXP LLC (Remote)
+Oct 2024 – Sept 2025
+
+* Built workflow automations and full-stack applications
+* Improved React performance (~45%) through bundle optimization
+* Reduced API latency (~35%) using optimized backend services
+* Developed CI/CD pipelines with GitHub Actions
+
+---
+
+**Software Co-Lead**
+Empowered Futures — Toronto
+Mar 2025 – Sept 2025
+
+* Led development of educational platform using React + Python APIs
+* Managed a team of 3 developers using Agile Scrum
+* Implemented CI/CD standards and code review processes
 
 ---
 
@@ -61,7 +141,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Neel112002&theme=tokyonight&row=1&margin-w=15"/>
@@ -80,14 +160,4 @@
 ## 👀 Profile Visitors
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Neel112002&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
-
----
-
-## 🤝 Connect With Me
-
-💼 LinkedIn
-https://linkedin.com/in/neel-shah-316a24201
-
----
+<img src="https://komarev.com/ghpvc/?username=Neel112002&label=Profile%20views&color=0e75b6&style=flat"/
